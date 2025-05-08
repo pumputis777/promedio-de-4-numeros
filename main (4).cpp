@@ -10,7 +10,6 @@ Write your code in this editor and press "Run" button to compile and execute it.
 using namespace std;
 int main()
 {
-   // Declarar las variables
     float num1; // Declaro la primera variable
     float num2; // Declaro la segunda variable
     float num3; // Declaro la tercera variable
